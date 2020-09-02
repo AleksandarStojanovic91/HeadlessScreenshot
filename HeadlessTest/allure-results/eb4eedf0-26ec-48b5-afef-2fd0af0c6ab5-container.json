@@ -1,0 +1,1 @@
+{"uuid":"eb4eedf0-26ec-48b5-afef-2fd0af0c6ab5","name":"HeadlessTest.setup","children":["49db5edd-4ae8-4870-87bc-6e0a7c3f8982"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1599066045770,"stop":1599066050955}],"afters":[],"links":[],"start":1599066045769,"stop":1599066050955}
